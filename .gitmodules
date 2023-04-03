@@ -1,3 +1,6 @@
 [submodule "numberai"]
 	path = numberai
 	url = https://github.com/therealguillermo/NumberWebsite
+[submodule "numberWebsite/numberai"]
+	path = numberWebsite/numberai
+	url = https://github.com/therealguillermo/NumberWebsite
